@@ -1,4 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
   height: 100%;
   width: 100%;
+}
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  text-align: center;
+  font-style: normal;
+}
+
+header {
+  padding: 30px 10px 5px 20px;
 }
